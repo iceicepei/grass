@@ -1,5 +1,5 @@
 # grass
-**Attention please！！！**
+**Attention please：**
 
 Symmetric parameter labels in our codes are different from grass.
 
